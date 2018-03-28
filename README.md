@@ -134,6 +134,10 @@ When you place **tree-select** on HTML template you can define :
 
 **tree-select** component use default options define when you call ```NgxTreeSelectModule.forRoot``` except if you override it with attribute on HTML template.
 
+# Demo
+
+https://crazyht.github.io/ngx-tree-select/
+
 # Running the Demo Application
 This command will build and start the demo application:
 
